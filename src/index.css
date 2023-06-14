@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* CSS sttyles of Vijay */
+.page-head{
+  text-align: center;
+  margin: 5%;
+  font-size: 35px;
+  color: brown;
+}
+.book{
+  margin: 5%;
+  text-align: center;
+}
+.btn{
+  background: transparent;
+  font-size: 15px;
+  font-weight: 700;
+  color: blue;
+  cursor: pointer;
+  border: none;
+}
+.btn:hover{
+  color: red;
+  transition: 0.5s;
+}
